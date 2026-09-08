@@ -211,9 +211,9 @@ Erstelle einen funktionierenden Markdown-Link zu GitHub oder Microsoft Learn:
 
 Schreibe die Markdown-Syntax für ein Bild mit Alternativtext:
 
-```text
+
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-```
+
 
 ### 42. Inline-Code
 
