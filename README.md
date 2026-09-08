@@ -269,16 +269,16 @@ Fülle die zweite Spalte mit einer kurzen deutschen Merkhilfe aus.
 
 | Begriff | Deutsche Merkhilfe |
 |---|---|
-| Issue | DEINE ANTWORT |
-| Branch | DEINE ANTWORT |
-| Commit | DEINE ANTWORT |
-| Push | DEINE ANTWORT |
-| Pull | DEINE ANTWORT |
-| Pull Request | DEINE ANTWORT |
-| Review | DEINE ANTWORT |
-| Merge | DEINE ANTWORT |
-| Clone | DEINE ANTWORT |
-| Repository | DEINE ANTWORT |
+| Issue | Problem |
+| Branch | Zweig |
+| Commit | Speichern |
+| Push | Hochladen |
+| Pull | Herunterladen |
+| Pull Request | Anfrage |
+| Review | Prüfung |
+| Merge | Verschmelzen |
+| Clone | Kopieren |
+| Repository | Ordner |
 
 ---
 
@@ -296,5 +296,5 @@ Fülle die zweite Spalte mit einer kurzen deutschen Merkhilfe aus.
 ## Meine Commit-Nachricht für diese Abgabe
 
 ```text
-DEINE COMMIT-NACHRICHT
+Aufgaben zu Markdown und Git-Grundlagen gelöst
 ```
